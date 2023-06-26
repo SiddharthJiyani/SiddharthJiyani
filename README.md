@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Siddharth Jiyani from Ahmedabad,Gujarat<br><br>- 🔭 I’m Sohpomore at LNMIIT,Jaiour<br>- 📚 I'm currently learning Full-Stack Devepment focuing on MERN Stack<br>- ⚡I'm a Competitive Programmer<br>-  🪄 Aspiring AI/ML learner</p>
+<p align="left">I'm Siddharth Jiyani from Ahmedabad,Gujarat<br><br>- 🔭 I’m Sohpomore at LNMIIT,Jaipur<br>- 📚 I'm currently learning Full-Stack Devepment focuing on MERN Stack<br>- ⚡I'm a Competitive Programmer<br>-  🪄 Aspiring AI/ML learner</p>
 
 ###
 
