@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hey there  !👋</h1>
+  <h1>Hey there! 👋 I'm Siddharth Jiyani</h1>
 
 ###
 
