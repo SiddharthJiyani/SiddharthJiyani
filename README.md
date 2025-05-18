@@ -31,11 +31,17 @@
 
 ###
 
-<h3 align="left">🧑‍💻  About Me</h3>
+## 💫 About Me
 
-###
+Pre-final year Computer Science student at **LNMIIT, Jaipur** passionate about building scalable web applications and solving complex algorithmic problems.
 
-<p align="left">I'm Siddharth Jiyani from Ahmedabad,Gujarat<br><br>- 🔭 I’m Pre-Final year student at LNMIIT,Jaipur<br>- 📚 I'm a Full-Stack Developer(MERN Stack)<br>- ⚡I'm a Competitive Programmer <br/> - Knight @ LeetCode (max 1868)</p>
+- 🌍 Based in Ahmedabad, Gujarat, India
+- 💻 Full-Stack Developer with expertise in MERN stack
+- 🏆 Competitive Programmer - Knight @ LeetCode (max rating 1868)
+- 🔭 Currently working on enhancing my system design skills
+- 🌱 Learning cloud architecture and microservices
+- 👯 Looking to collaborate on open-source projects and hackathons
+- 💬 Ask me about web development, data structures & algorithms
 
 <div align="center">
   <img height="300" src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM1NTQzMjYsIm5iZiI6MTcyMzU1NDAyNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEzVDEzMDAyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkY2NhMDNhNjBiNWM3ZGQ5Y2Y1Mjc2MTUzY2U4YmNjMzIzZTI3NDEwYzc4NjBjZjVmMzA0ZjA5MzE4NzRlNmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dcau9ALBdnR_eoCHVyDhAhauaVpBuGAn3C4onNOpHhA"/>
