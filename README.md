@@ -76,7 +76,7 @@ Final year Computer Science student at **LNMIIT, Jaipur** passionate about build
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
 </p>
