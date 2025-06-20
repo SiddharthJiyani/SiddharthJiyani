@@ -33,11 +33,11 @@
 
 ## 💫 About Me
 
-Pre-final year Computer Science student at **LNMIIT, Jaipur** passionate about building scalable web applications and solving complex algorithmic problems.
+Final year Computer Science student at **LNMIIT, Jaipur** passionate about building scalable web applications and solving complex algorithmic problems.
 
 - 🌍 Based in Ahmedabad, Gujarat, India
 - 💻 Full-Stack Developer with expertise in MERN stack
-- 🏆 Competitive Programmer - Knight @ LeetCode (max rating 1868)
+- 🏆 Competitive Programmer - Knight @ LeetCode (max rating 1903)
 - 🔭 Currently working on enhancing my system design skills
 - 🌱 Learning cloud architecture and microservices
 - 👯 Looking to collaborate on open-source projects and hackathons
@@ -76,7 +76,7 @@ Pre-final year Computer Science student at **LNMIIT, Jaipur** passionate about b
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
 </p>
